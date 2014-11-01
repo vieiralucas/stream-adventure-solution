@@ -4,6 +4,7 @@
   "description": "My solution to stream-adventure",
   "main": "beep-boop.js",
   "dependencies": {
+    "concat-stream": "^1.4.6",
     "split": "^0.3.0",
     "through": "^2.3.6"
   },
