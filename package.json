@@ -1,0 +1,30 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "My solution to stream-adventure",
+  "main": "beep-boop.js",
+  "dependencies": {
+    "split": "^0.3.0",
+    "through": "^2.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vieiralucas/stream-adventure-solution.git"
+  },
+  "keywords": [
+    "stream-adventure",
+    "stream",
+    "adventure",
+    "solution"
+  ],
+  "author": "Lucas Vieira <vieiralucas4@gmail.com> (http://vieiralucas.github.io/)",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/vieiralucas/stream-adventure-solution/issues"
+  },
+  "homepage": "https://github.com/vieiralucas/stream-adventure-solution"
+}
